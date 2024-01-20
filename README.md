@@ -1,1 +1,1 @@
-## Android study with 'must have Jayce's android app programming'
+## Android study with 'must have Joyce's android app programming with kotlin'
