@@ -13,6 +13,12 @@
         android:theme="@style/Theme.MustHaveAndroid"
         tools:targetApi="31">
         <activity
+            android:name=".TwoColorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SubActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
