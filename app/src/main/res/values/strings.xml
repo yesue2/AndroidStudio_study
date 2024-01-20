@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mustHaveAndroid</string>
+    <string name="greeting">Hi</string>
 </resources>
