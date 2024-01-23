@@ -9,4 +9,4 @@
 - [스톱워치 애플리케이션 구현 GitHub](https://github.com/yesue2/StopWatch_App)
 
 
-![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/8baa19a4-bde9-4602-9261-7c5acefb645a)
+![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/79bb865e-0520-471a-8139-4f2a5d463fff)
