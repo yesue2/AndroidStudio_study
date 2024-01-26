@@ -8,5 +8,7 @@
 - [7장 스톱워치: 스레드 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-7%EC%9E%A5-%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98) 👉 [스톱워치 애플리케이션 구현 GitHub](https://github.com/yesue2/StopWatch_App)
 - [8장 뮤직 플레이어: MediaPlayer API, 서비스 Velog 정리](https://velog.io/@woga1999/Android-Foreground-Service-%ED%8F%AC%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4) 👉 [뮤직 플레이어 애플리케이션 구현 GitHub](https://github.com/yesue2/MediaPlayer_App)
 
+- [9장 QR 코드 리더기: 카메라, 뷰 바인딩, 구글 ML 키트 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-9%EC%9E%A5-QR-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%8D%94%EA%B8%B0-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EB%B7%B0-%EB%B0%94%EC%9D%B8%EB%94%A9-%EA%B5%AC%EA%B8%80-ML-%ED%82%A4%ED%8A%B8) 👉 [QR 코드 리더기 애플리케이션 구현 GitHub](https://github.com/yesue2/QRCodeReader_App)
+
 
 ![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/79bb865e-0520-471a-8139-4f2a5d463fff)
