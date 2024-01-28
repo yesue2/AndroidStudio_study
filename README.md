@@ -10,5 +10,7 @@
 
 - [9장 QR 코드 리더기: 카메라, 뷰 바인딩, 구글 ML 키트 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-9%EC%9E%A5-QR-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%8D%94%EA%B8%B0-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EB%B7%B0-%EB%B0%94%EC%9D%B8%EB%94%A9-%EA%B5%AC%EA%B8%80-ML-%ED%82%A4%ED%8A%B8) 👉 [QR 코드 리더기 애플리케이션 구현 GitHub](https://github.com/yesue2/QRCodeReader_App)
 
+- [10장 할 일 리스트: Room 데이터베이스, 리사이클러뷰 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-10%EC%9E%A5-%ED%95%A0-%EC%9D%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-Room-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%A6%AC%EC%82%AC%EC%9D%B4%ED%81%B4%EB%9F%AC%EB%B7%B0} 👉 [할 일 리스트 애플리케이션 구현 GitHub](https://github.com/yesue2/ToDoList_App)
+
 
 ![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/79bb865e-0520-471a-8139-4f2a5d463fff)
