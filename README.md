@@ -1,5 +1,5 @@
 ## 📚 Android study with 'must have Joyce's android app programming with kotlin'
-### 📝 
+### Document 📝 
 - [3장 레이아웃 에디터와 레이아웃 파일 Velog 정리](https://velog.io/@yesue/Must-Have-Jayce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%97%90%EB%94%94%ED%84%B0%EC%99%80-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%ED%8C%8C%EC%9D%BC)
 
 - [4장 액티비티와 프래그먼트 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%99%94%EB%A9%B4-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EC%99%80-%ED%94%84%EB%9E%98%EA%B7%B8%EB%A8%BC%ED%8A%B8)
@@ -12,5 +12,7 @@
 
 - [10장 할 일 리스트: Room 데이터베이스, 리사이클러뷰 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-10%EC%9E%A5-%ED%95%A0-%EC%9D%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-Room-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%A6%AC%EC%82%AC%EC%9D%B4%ED%81%B4%EB%9F%AC%EB%B7%B0) 👉 [할 일 리스트 애플리케이션 구현 GitHub](https://github.com/yesue2/ToDoList_App)
 
+- [11장 미세먼지 앱 V 1.0: 레트로핏을 이용한 네트워크 통신 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-11%EC%9E%A5-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%B1-V-1.0-%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%95%8F%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0) 👉 [미세먼지 농도 측정 애플리케이션 GitHub](https://github.com/yesue2/AirQuality_App/tree/main)
 
+  
 ![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/79bb865e-0520-471a-8139-4f2a5d463fff)
