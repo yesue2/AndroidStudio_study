@@ -14,5 +14,6 @@
 
 - [11장 미세먼지 앱 V 1.0: 레트로핏을 이용한 네트워크 통신 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-11%EC%9E%A5-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%B1-V-1.0-%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%95%8F%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0) 👉 [미세먼지 농도 측정 애플리케이션 GitHub](https://github.com/yesue2/AirQuality_App/tree/main)
 
+- [12장 미세먼지 앱 V 2.0: 구글 맵 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-11%EC%9E%A5-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%B1-V-2.0-%EA%B5%AC%EA%B8%80-%EB%A7%B5) 👉 [미세먼지 농도 측정 애플리케이션 GitHub](https://github.com/yesue2/AirQuality_App/tree/main)
   
 ![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/79bb865e-0520-471a-8139-4f2a5d463fff)
