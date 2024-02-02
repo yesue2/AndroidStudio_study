@@ -17,5 +17,7 @@
 - [12장 미세먼지 앱 V 2.0: 구글 맵 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-11%EC%9E%A5-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%B1-V-2.0-%EA%B5%AC%EA%B8%80-%EB%A7%B5) 👉 [미세먼지 농도 측정 애플리케이션 GitHub](https://github.com/yesue2/AirQuality_App/tree/main)
 
 - [13장 미세먼지 앱 V 3.0: 구글 애드몹 광고, 파이어베이스, 구글 애널리틱스 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-13%EC%9E%A5-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%B1-V-3.0-%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%93%9C%EB%AA%B9-%EA%B4%91%EA%B3%A0-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4) 👉 [미세먼지 농도 측정 애플리케이션 GitHub](https://github.com/yesue2/AirQuality_App/tree/main)
-  
+- [14장 구글 플레이 스토어에 배포하기 Velog 정리](https://velog.io/@yesue/Must-Have-Joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-14%EC%9E%A5-%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0) 👉 [미세먼지 농도 측정 애플리케이션 GitHub](https://github.com/yesue2/AirQuality_App/tree/main)
+
+
 ![image](https://github.com/yesue2/AndroidStudio_study/assets/108323785/79bb865e-0520-471a-8139-4f2a5d463fff)
